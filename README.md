@@ -1,0 +1,2 @@
+# Statistics - Data Science
+ In data science, statistics is at the core of sophisticated machine learning algorithms, capturing and translating data patterns into actionable evidence. Data scientists use statistics to gather, review, analyze, and draw conclusions from data, as well as apply quantified mathematical models to appropriate variables. In this repository you will come across various aspects of statistics used in data science.
